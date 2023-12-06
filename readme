@@ -1,0 +1,48 @@
+# Desafio React Redizz
+
+Esta aplicação simples permite desenhar bolinhas coloridas em um canvas HTML5 e apresenta uma transição de cores animada. Além disso, possui a funcionalidade de desfazer, refazer e limpar a tela.
+
+## Funcionalidades
+
+- Desenhe bolinhas coloridas no canvas clicando na tela.
+- Desfaça a última ação clicando em "Desfazer".
+- Refaça a última ação desfeita clicando em "Refazer".
+- Limpe todo o canvas clicando em "Limpar".
+
+## Instalação
+
+Siga estas instruções para executar a aplicação em sua máquina local.
+
+### Pré-requisitos
+
+- Certifique-se de ter o Node.js instalado em sua máquina. Você pode baixá-lo em [nodejs.org](https://nodejs.org/).
+
+### Passos de instalação
+
+1. Clone o repositório para sua máquina local:
+
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+Navegue até o diretório da aplicação:
+
+bash
+Copy code
+cd nome-do-repositorio
+Instale as dependências:
+
+bash
+Copy code
+npm install
+Inicie a aplicação:
+
+bash
+Copy code
+npm start
+Isso iniciará a aplicação em http://localhost:3000.
+
+Abra seu navegador e acesse http://localhost:3000 para visualizar a aplicação.
+
+Dependências
+A aplicação utiliza as seguintes dependências:
+
+React: https://reactjs.org/
