@@ -22,7 +22,7 @@ Siga estas instruções para executar a aplicação em sua máquina local.
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/ItaloRafaelDev/Desafio-Redizz
 Navegue até o diretório da aplicação:
 
 bash
